@@ -1,0 +1,23 @@
+{
+  "name": "keiko-corp",
+  "version": "1.0.0",
+  "description": "The greatest company ever created",
+  "main": "index.html",
+  "dependencies": {
+    "fg-loadcss": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakarlse88/keiko-corp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakarlse88/keiko-corp/issues"
+  },
+  "homepage": "https://github.com/jakarlse88/keiko-corp#readme"
+}
